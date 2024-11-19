@@ -97,3 +97,14 @@ pg_dump --clean --create --inserts --username=freecodecamp students > students.s
 git push
 git status
 git add .
+git commit -m "1. Add some changes"
+git log
+git log
+git push
+git push --set-upstream origin main
+git pull
+git branch
+git pull
+git pull main main
+git status
+git add .
