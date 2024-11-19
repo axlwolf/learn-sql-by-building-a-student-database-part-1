@@ -108,3 +108,5 @@ git pull
 git pull main main
 git status
 git add .
+git commit -m "1. Add some changes"
+git status
